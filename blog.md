@@ -1,3 +1,2 @@
-This is my first blog post!
-
-This blog post is going to be the best one o the week!
+<h1>Grants Awesome Journey
+<h3> Week One
