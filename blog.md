@@ -1,5 +1,5 @@
-#### Grants Awesome Journey
-## Week One
+# Grants Awesome Journey
+#### Week One
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
  
