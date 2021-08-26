@@ -1,6 +1,7 @@
-<h1>Grants Awesome Journey
-<h3> Week One
-Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
+####Grants Awesome Journey
+## Week One
+<br>
+<p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
  
  I am excited to learn more about mastering Github, along with markdown. These two things are completley new to me. I will also be very excited to learn about styling this blog.
 
