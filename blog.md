@@ -2,7 +2,7 @@
 <h2 align="center"> Onboarding </h2>
 <h3>Week ☝️ </h3>
 <br>
-![damnit] (github/blog/img/derrickswedding.jpeg)
+![damnit] (github.com/blog/img/derrickswedding.jpeg)
 
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
