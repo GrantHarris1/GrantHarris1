@@ -1,7 +1,7 @@
 # Grants Awesome Journey 
 ##  Onboarding 
 ### Week ☝️ 
-![ILEY](https://photos.google.com/album/AF1QipOAjfIlr2eAGf4fjOE3Mb7jSrEDm_a3eCK09EZP)
+
 
 
 
