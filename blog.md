@@ -2,7 +2,7 @@
 <h2 align="center"> Onboarding </h2>
 <h3>Week ☝️ </h3>
 <br>
-<img src= "blog/derrickswedding.jpeg" alt="damnit">
+<img src= "desktop/dwedding.JPG" alt="damnit">
 
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
