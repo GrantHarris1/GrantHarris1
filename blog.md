@@ -1,8 +1,8 @@
-<h1 align="center"> Grants Awesome Journey </h1>
-<h2 align="center"> Onboarding </h2>
-<h3>Week ☝️ </h3>
+# Grants Awesome Journey 
+##  Onboarding 
+### Week ☝️ 
 <br>
-![damnit] (github.com/blog/img/derrickswedding.jpeg)
+![damnit] (https://ih3,googleusercontent.com/N486KziqXE7xBDqDTxyt5NwRTr_IRpbQcFkTxvOreM9zc1DuFnCQod0zYeU-fFQGsyma=s103)
 
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
