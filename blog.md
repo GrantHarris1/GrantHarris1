@@ -1,5 +1,5 @@
 <h1 align="center"> Grants Awesome Journey </h1>
-#### Week One
+<h4 align="center"> Week One </h4>
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
  
