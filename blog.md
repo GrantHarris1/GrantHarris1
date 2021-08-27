@@ -2,7 +2,7 @@
 ##  Onboarding 
 ### Week ☝️ 
 
-
+![wedding](img/rocket.jpeg)
 
 
 
