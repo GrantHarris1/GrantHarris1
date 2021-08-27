@@ -2,7 +2,8 @@
 ##  Onboarding 
 ### Week ☝️ 
 <br>
-![damnit] (https://ih3,googleusercontent.com/N486KziqXE7xBDqDTxyt5NwRTr_IRpbQcFkTxvOreM9zc1DuFnCQod0zYeU-fFQGsyma=s103)
+![damnit] 
+(https://lh3.googleusercontent.com/N486KziqXE7xBDqDTxyt5NwRTr_IRpbQcFkTxvOreM9zc1DuFnCQod0zYeU-fFQGsyma=s103)
 
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
