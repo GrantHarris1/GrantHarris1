@@ -1,10 +1,10 @@
 <h1 align="center"> Grants Awesome Journey </h1>
-<h4 align="center"> Week One </h4>
+<h2 align="center"> Onboarding </h2>
+<h3>Week ☝️ </h3>
 <br>
 <p>Week one was not what i expected. we dove straight into Git & Github and I had been preparing for HTML & CSS.
- 
- I am excited to learn more about mastering Github, along with markdown. These two things are completley new to me. I will also be very excited to learn about styling this blog.
+  I am excited to learn more about mastering Github, along with markdown. These two things are completley new to me. I will also be very excited to learn about styling this blog.I am excited for my opportunity in the class, to have a new valuable skill.</p>
 
- Only by reading this blog you would learn that I am in serveral lawn care workers groups online because they are so funny and very mean to each other. I get bored.
+
 
 
