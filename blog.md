@@ -38,6 +38,25 @@ Git|Chrome Dev Tools
 Github|Retrospectives
   
 
+  _________
+<br>
+
+<br>
+### Week 🤟
+
+![silly gen](img/sillyback.jpeg)
+
+Week three was a lot more HTML CSS & JavaScript. I more fully understand how HTML set the order of the page, and the way to grab a section of the code to change it in a coding language. CSS is something that I enjoy doing styling the page is very enjoyable to me. JavaScrit has been my main challenge so far. i am working on it. I have began to do "extra" work to understand it better. I'm remaining inspired.
+    
+    Elon Musk said:
+    > "When something is important enough, you do it even if the odds are not in your favor."
+
+    > " Here's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering."
+
+I have not yet begun to incorporate pseudocode yet, but look forward to starting to do so next week.
+
+
+
 
 
 
