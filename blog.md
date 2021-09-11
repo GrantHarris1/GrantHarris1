@@ -54,6 +54,11 @@ Week three was a lot more HTML CSS & JavaScript. I more fully understand how HTM
     > " Here's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering."
 
 I have not yet begun to incorporate pseudocode yet, but look forward to starting to do so next week.
+
+What I learned this week:
+ * Debugging with Chrome Dev tools.
+ * JavaScript
+ * JavaScript in Dev Tools
   
 
 
