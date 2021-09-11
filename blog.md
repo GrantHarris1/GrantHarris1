@@ -55,7 +55,15 @@ Week three was a lot more HTML CSS & JavaScript. I more fully understand how HTM
 
 I have not yet begun to incorporate pseudocode yet, but look forward to starting to do so next week.
 
+<<<<<<< HEAD
 
+=======
+What I learned this week:
+ * Debugging with Chrome Dev tools.
+ * JavaScript
+ * JavaScript in Dev Tools
+  
+>>>>>>> 3958bff76f5726c245a3f59de74f8c40e521daa5
 
 
 
