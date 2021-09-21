@@ -62,8 +62,39 @@ What I learned this week:
  * Debugging with Chrome Dev tools.
  * JavaScript
  * JavaScript in Dev Tools
+  ___
+
+  ### Week 4️⃣ (Last week of onboarding)
+  ![no balls](img/balls.jpeg)
   
+<<<<<<< HEAD
 >>>>>>> 3958bff76f5726c245a3f59de74f8c40e521daa5
+=======
+  Things that were helpful during Onboarding:
+1. Learning more about the history of computer science.
+2. Learning git & github.
+3. Learning resources for anwers to our coding problems.
+4. The instructional videos were what i found most helpful( the videos by our instrustors.)
+5. Daily Stand-ups. Many times i was feeling overwhelmed, and when I saw peers strugling with some of the same isssues it made my able to relax and have a better prespective.
+6. Demo Day. I learned so much just from other problems that others had solved and creative solutions to things that I didnt think of while working on my own project.
+<br>
+<br>
+Things that hindered my progress during Onboarding:
+* Family obligations.
+* Children in the house (they tried).
+* Lots of reading without group practicing or leasons from instructors.
+* Lack of knowledge when it comes to even basic coding skills.
+<br>
+<br>
+How I overcame challenges during Onboarding:
+1. Rewatching videos from my instructors when applicable. (perferred method).
+2. Using the refrences provided in the materials.
+3. GOOGLE
+4. Sometimes walking away from a current issue and doing something non code related for a few minutes and coming back to it with a clear mind.
+
+
+
+>>>>>>> 63ba0da930e937791b0a41f83484339468c187ad
 
 
 
