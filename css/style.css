@@ -1,7 +1,12 @@
 .body{
-    background-color: purple ;
+    background-image: url('/blog/img/mount1.png') ;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: raleway, sans-serif;
+    
 };
 
 .h1 {
+    
     color: orange;
 }
