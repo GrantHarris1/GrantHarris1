@@ -1,242 +1,315 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="/blog/css/blog.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+    </style>
     <title>Blog Page.</title>
-  </head>
-  <body>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light border">
-  <div class="container-fluid">
-    <a class=" navbar-brand text-secondary  mx-auto text-center" href="https://www.linkedin.com/in/1grantharris1/">Grant Harris</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/blog/index.html">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="pages/pages.html">Blog Page</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="#">Portfolio Projects</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pictures</a>
-        </li>
-       
-      </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-primary rounded-pill" type="submit">Search</button>
-      </form>
-    </div>
-  </div>
-</nav>
-<!--Carousel (too big)-->
-<!--<div id="carouselExampleFade" class="carousel slide carousel-fade carousel-dark" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active ">
-      <img src="/blog/img/rocket.jpg" class="d-block w-100 h-700" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="/blog/img/fire.png" class="d-block w-100 h-700" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="/blog/img/sillyback.png" class="d-block w-100 h-700" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="/blog/img/balls.png" class="d-block w-100 h-700" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="/blog/img/snowfor.png" class="d-block w-100 h-700" alt="...">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div> -->
-<div class="container bg-secondary p-2 text-info bg-light
-  <div class="row">
-    <div class="col shadow p-3 mb-5 bg-body rounded">
-     <h3 class="text-info"> Week ☝️</h3>
-     <p>
-         Week one was <em>not</em> what I expected. We dove straight into Git & Github. 
-         I had been preparing for HTML &a CSS. I am excited to learn more about mastering Github, along with markdown. 
-         These two things are completely new to me. I will also be very excited to learn about styling this blog. 
-         My personal Favorite website is: <a href="https://kentuckysportsradio.com">K.S.R.</a> 
-         I am excited for my opportunity in this class, and to add a new valuable skillset.<br> 
-         Some things I learned in week one: <br>
-         <ul>
-            <li>Text Editing</li>
-            <li>Markdown language</li>
-            <li>Code Anywhere</li>
-            <li>Grasshopper</li>
-            <li>Fundamentals I</li>  
-            <li>Fundamentals II</li>
-         </ul>
-         <br>
-         Git:
-         <ul>
-             <li>How to start a new repository.</li>
-            <li>Commands such as push, pull, add, etc.</li>  
-            <li>How to merge branches.</li>
-         </ul>
-         <br>
-         Github:
-         <ul>
-             <li>How to monitor your branches in Git</li>
-         </ul>
-             
+</head>
 
-     </p>
-    </div>
-    <div class="col shadow p-3 mb-5 bg-body rounded">
-      <h3>Week ✌️</h3>
-      <p>
-         Week two was an informative one. Heavy in reading content. I am ejoying learning new things.  I dont uderstand everything we are goiing over quite yet, but I'm learning a lot. One thing i wish i could do but cannot as of yet back end web development. Something I wish that I understood better is JavaScript. Some methods that i am usuing right now to solve problems are web searches, Youtube videos. Sometimes I do something else like play a game or take a walk for a while to clear my head then come back to the task.
+<body class="body">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light border">
+        <div class="container-fluid">
+            <a class=" navbar-brand text-secondary  mx-auto text-center"
+                href="https://www.linkedin.com/in/1grantharris1/">Grant Harris</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/blog/index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/pages.html">Blog Page</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/blog/pages/pics.html">Pictures</a>
+                    </li>
 
- Skills learned this week:
-    <ul>
-        <li> HTML </li>
-        <li> CSS </li>
-        <li> JavaScript </li>
-        <li> Agile </li>
-        <li> Chrrome Dev Tools </li>
-        <li> Retrospectives</li>
-    </ul>
-        </p>    
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-primary rounded-pill" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- First Week -->
+
+    <div class="back">
+        <br>
+        <br>
+        <div class="card text-center ">
+            <div class="card-body cardback">
+                <h5 class="card-title">Week I</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Text Editor setup | Git | Github | JS Fundamentals</h6>
+                <p class="card-text">
+                    Week one was <em>not</em> what I expected. We dove straight into Git & Github.
+                    I had been preparing for HTML &a CSS. I am excited to learn more about mastering Github, along with
+                    markdown.
+                    These two things are completely new to me. I will also be very excited to learn about styling this
+                    blog.
+                    My personal Favorite website is: <a href="https://kentuckysportsradio.com"><img
+                            src="/blog/img/ksr2.jpeg"></a>
+                    I am excited for my opportunity in this class, and to add a new valuable skillset.<br>
+                <h4><b>Some things I learned in week one:</b> <br>
+                </h4>
+                <b>Text Editing<br>
+                    Markdown language<br>
+                    Code Anywhere<br>
+                    Grasshopper<br>
+                    Fundamentals I<br>
+                    Fundamentals II<br>
+
+                    <br>
+                    Git:<br>
+
+                    How to start a new repository.<br>
+                    Commands such as push, pull, add, etc.<br>
+                    How to merge branches.<br>
+
+                    <br>
+                    Github:<br>
+
+                    How to monitor your branches in Git</b>
+
+
+                </p>
+                <a href="https://github.com/GrantHarris1" class="card-link"><img src="/blog/img/thgit.png"></a>
+            </div>
+        </div>
+
+        <!-- second week -->
+
+        <br>
+        <br>
+        <div class="card text-center">
+            <div class="card-body cardback">
+                <h5 class="card-title">Week II</h5>
+                <h6 class="card-subtitle mb-2 text-muted">HTML | CSS | JavaScript | Chrome Dev Tools
+                </h6>
+                <p class="card-text">
+                    Week two was an informative one. This week was heavy in reading content. I am ejoying learning new
+                    things. I don't
+                    uderstand everything we are going over quite yet, but I am learning a lot. One thing I wish I could
+                    do but cannot as of yet back end web development. Something I wish that I understood better is
+                    JavaScript. Some methods that I am using right now to solve problems are web searches, Youtube
+                    videos. Sometimes I do something else like play a game or take a walk for a while to clear my head
+                    then come back to the task.<br>
+
+                <h4>
+                    <b>Skills learned this week:</b></br>
+                </h4>
+
+
+                <b>HTML<br>
+                    CSS<br>
+                    JavaScript<br>
+                    Agile<br>
+                    Chrrome Dev Tools<br>
+                    Retrospectives<br></b>
+
+                </p>
+                <hr>
+                <p> My Week II "Progress"</p>
+                <a href="https://github.com/GrantHarris1/web-birdwatching" class="card-link">
+                    <img src="/blog/img/thgit.png">
+                </a>
+
+            </div>
+        </div>
+        <!-- Week 3 -->
+        <br>
+        <br>
+        <div class="card text-center">
+            <div class="card-body cardback">
+                <h5 class="card-title">Week III</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Debugging | JavaScript</h6>
+                <p class="card-text">
+                    Week three was a lot more HTML CSS & JavaScript.
+                    I more fully understand how HTML set the order of the page, and the way to grab a section of the
+                    code
+                    to change it in a coding language. CSS is something that I enjoy doing styling the page is very
+                    enjoyable
+                    to me. JavaScrit has been my main challenge so far.
+                    I am working on it. I have began to do "extra" work to understand it better. I'm remaining inspired.
+                    <br>
+                <blockquote class="blockquote">
+                    <p>
+                        "When something is important enough, you do it even if the odds are not in your favor."
+                        - Elon Musk
+                    </p>
+                </blockquote>
+
+                <br>
+                I have not yet begun to incorporate pseudocode yet, but look forward to starting to do so next week.
+                <br>
+                <h4>
+                    <b>What I learned this week:</b><br>
+                </h4>
+
+
+                <b>Debugging with Chrome Dev tools.<br>
+                    JavaScript.<br>
+                    JavaScript in Dev Tools.</b><br>
+                <hr>
+                </p>
+                <p> My Ealry Progress With JavaScript.</p>
+                <a href="https://github.com/GrantHarris1/silly" class="card-link"><img src="/blog/img/thgit.png"></a>
+
+            </div>
+        </div>
     </div>
-    <div class="col shadow p-3 mb-5 bg-body rounded">
-      <h3>Week 🤟</h3>
-      <p>
-          Week three was a lot more HTML CSS & JavaScript. 
-          I more fully understand how HTML set the order of the page, and the way to grab a section of the code 
-          to change it in a coding language. CSS is something that I enjoy doing styling the page is very enjoyable
-           to me. JavaScrit has been my main challenge so far. 
-           I am working on it. I have began to do "extra" work to understand it better. I'm remaining inspired.
     <br>
-    Elon Musk said:<br>
-        "When something is important enough, you do it even if the odds are not in your favor."
-     <br>
-        " Here's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering."
     <br>
-I have not yet begun to incorporate pseudocode yet, but look forward to starting to do so next week.
+    <!-- Week 4 -->
 
-What I learned this week:
-<ul>
- <li> Debugging with Chrome Dev tools.</li>
- <li> JavaScript.</li>
- <li> JavaScript in Dev Tools.</li>
-</u>
-      </p>
-    </div>
-  </div>
-</div>
-<br>
-<hr>
-<div class="container bg-secondary text-light">
-  <div class="row">
-    <div class="col">
-      <h3>Week 🤟☝️ (Last week of Onboarding)</h3>
-      <p>
-            Things that were helpful during Onboarding:<br>
-            <ol>
-<li> Learning more about the history of computer science.</li>
-<li> Learning git & github.</li>
-<li> Learning resources for anwers to our coding problems.</li>
-<li> The instructional videos were what i found most helpful( the videos by our instrustors.)</li>
-<li> Daily Stand-ups. Many times i was feeling overwhelmed, and when I saw peers strugling with 
-    some of the same isssues it made my able to relax and have a better prespective.</li>
-<li> Demo Day. I learned so much just from other problems that others had solved and creative solutions 
-    to things that I didnt think of while working on my own project.</li>
-            </ol>
-<br>
-<br>
-Things that hindered my progress during Onboarding:<br>
-<ul>
-    <li> Family obligations.</li>
-    <li> Children in the house (they tried).</li>
-    <li> Lots of reading without group practicing or leasons from instructors.</li>
-    <li> Lack of knowledge when it comes to even basic coding skills.</li>
-</ul>
-<br>
+    <div class="card text-center">
+        <div class="card-body cardback">
+            <h5 class="card-title">Week IV (Last Week Of Onboarding)</h5>
+            <h6 class="card-subtitle mb-2 text-muted">Computer Science | Github | Learning To Learn</h6>
+            <p class="card-text">
+                <b>Things that were helpful during Onboarding:</b><br>
 
-How I overcame challenges during Onboarding:<br>
-<ol>
-    <li> Rewatching videos from my instructors when applicable. (perferred method).</li>
-    <li> Using the refrences provided in the materials.</li>
-    <li> GOOGLE</li>
-    <li> Sometimes walking away from a current issue and doing something non code related for a few minutes
-         and coming back to it with a clear mind.</li>
-    
-</p>  
-    </div>
-    <div class="col">
-      <h3>Week ✋</h3>
-      <p>
-          Week 5 was difficult, we had 3 projects that we recieved by Wednesday afternoon.
-          they we due friday by 10:00am. We had our first Katas in person. We pair programmed for the 
-          first time ( Katas). We worked on a campaign website that was for a fcitional character.
-          Mine was for Jon Snow. We also did a JavaScript project called Mind Reader.<br>
-          Some skills I learned/ worked on this week:
-          <ul>
-              <li>HTML</li>
-              <li>css</li>
-              <li>JavaScript</li>
-              <li> Bootstrap</li>
-              <li> Paired Programming</li>
-          </ul>
-              
-              
-    </div>
-    <div class="col">
-        <div class="col">
-      <h3>Week ✋☝️</h3>
-      <p>
-          Week 6 was a pretty good week for me personally. I was able to manage time a ittle more properly. We worked on a contact card that we built off 
-          of a wireframe. It was to share our info quickly with a client or peer. It was mostly an exercise in bootstrap. we also had a project making a 
-          weather forecast app. Working with the other bootcampers and asking more quexstions seems to be the key to my success at this point.<br>
-          Things i learned this week include:
-        <ul>
-              <li>Axios to handle Api</li>
-              <li>Json to handle axios/API</li>
-              <li>JavaScript caliing API/ handling the resutls</li>
-              <li>Bootstrap (more)</li>
-              <li>how to hide/show elements.</li>
-          </ul>
-              
-              
-    </div>
-    <div class="col">
-      
-    </div>
-  </div>
-</div>
+                Learning more about the history of computer science.<br>
+                Learning git & github.<br>
+                Learning resources for anwers to our coding problems.<br>
+                The instructional videos are what I found most helpful.(The videos by our instrustors.)<br>
+                <b>Daily Stand-ups.<br></b>
 
-    
+                Many times I was feeling overwhelmed, however, when I saw peers strugling with
+                some of the same issues as myself, it made me able to relax and have a better prespective.<br>
+                <b>Demo Day.<br></b>
+
+                I learned so much just from other problems that others had solved and creative
+                solutions
+                to things that I didnt think of while working on my own project.
+
+                <br>
+                <br>
+                <b>Things that hindered my progress during Onboarding:<br></b>
+
+                Family obligations.<br>
+                Children in the house, noisey enviroment. (they tried).<br>
+                Lots of reading without group practicing or leasons from instructors.<br>
+                Lack of knowledge when it comes to even basic coding skills.
+
+                <br>
+                <br>
+
+                <b>How I overcame challenges during Onboarding:<br></b>
+
+                Rewatching videos from my instructors when applicable.<br>
+                Using the refrences provided in the materials.<br>
+                GOOGLE<br>
+                Sometimes walking away from a current issue and doing something non code related for a few
+                minutes.Returning back to it with a clear mind.
+            </p>
+            <hr>
+            <p>
+                The JavaScript Project I Completed This Week:
+            </p>
+            <a href="https://github.com/GrantHarris1/bouncingBall" class="card-link"><img src="/blog/img/thgit.png"></a>
+        </div>
+    </div>
+    <!-- WEEK 5 -->
+    <br>
+    <br>
+    <div class="card text-center">
+        <div class="card-body cardback">
+            <h5 class="card-title">Week V</h5>
+            <h6 class="card-subtitle mb-2 text-muted">JavaScript | Bootstrap | Paired Programming</h6>
+            <p class="card-text">
+                Week 5 was difficult, we had 3 projects that we recieved by Wednesday afternoon.
+                They were due friday by 10:00am. We had our first Katas in person. We pair programmed for the
+                first time ( Katas). We worked on a campaign website that was for a fictional character.
+                Mine was for Jon Snow. We also did a JavaScript project called Mind Reader.<br>
+                <b>Some skills I learned/ worked on this week:</b><br>
+
+                HTML<br>
+                CSS<br>
+                JavaScript<br>
+                Bootstrap<br>
+                Paired Programming<br>
+
+            </p>
+            <hr>
+            <p> My "Campaign" Project From This Week.</p>
+            <a href="https://github.com/GrantHarris1/campaign" class="card-link"><img src="/blog/img/thgit.png"></a>
+
+        </div>
+    </div>
+    <br>
+    <br>
+    <!-- WEEK 6 -->
+
+    <div class="card text-center">
+        <div class="card-body cardback">
+            <h5 class="card-title">Week VI</h5>
+            <h6 class="card-subtitle mb-2 text-muted">Axios | JSON | APIs</h6>
+            <p class="card-text">
+                Week six was a pretty good week for me personally. I was able to manage time a little more
+                appropriately . We worked on a contact card that we built off
+                of a wireframe. The contact card was to share our info quickly with a client or peer. The project was
+                mostly an
+                exercise in bootstrap. We also had a project making a
+                weather forecast app. Working with the other bootcampers and asking more quexstions seems to be
+                the key to my success at this point.<br>
+                <b>Things i learned this week include:</b><br>
+
+                Axios to handle Api.<br>
+                Json to handle axios/API.<br>
+                JavaScript caliing API/ handling the resutls.<br>
+                Bootstrap. (more)<br>
+                how to hide/show elements.<br>
+            </p>
+            <hr>
+            <p>The Project I Completed Using Axios, JSON, & Calling APIs</p>
+            <a href="https://github.com/GrantHarris1/weather" class="card-link"><img src="/blog/img/thgit.png"></a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+        crossorigin="anonymous"></script>
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
     -->
-  </body>
+    </div>
+</body>
+
 </html>

@@ -1,0 +1,10 @@
+.wayback{
+    background-image: url('/blog/img/picspage/picpage.png');
+}
+
+.email{
+    color: black;
+}
+.email:hover {
+  color: coral;
+}
