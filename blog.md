@@ -1,7 +1,7 @@
 # Grants Awesome Journey 
 ##  Onboarding 
 ### Week ☝️ 
-
+here we go
 ![wedding](img/rocket.jpeg)
 
 
