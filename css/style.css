@@ -1,5 +1,5 @@
 .body{
-    background-image: url('/blog/img/blogback.jpeg') ;
+    background-image: url('../img/blogback.jpeg') ;
     background-repeat: no-repeat;
     height: 100%;
     font-family: raleway, sans-serif;
