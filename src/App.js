@@ -8,6 +8,7 @@ import {
     Switch,
     Route
 } from 'react-router-dom';
+import Projects from './pages/Projects';
 
 
 function App() {
@@ -15,9 +16,12 @@ function App() {
     <Router>
         <Headliner /> 
         <Switch>  
-            <Route path="/Aboutme">
-      <Aboutme />
-      </Route>
+            <Route path="/aboutme">
+                <Aboutme />
+            </Route>
+            <Route path='/projects'>
+                <Projects />
+            </Route>
         </Switch>
     </Router>
   );
