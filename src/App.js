@@ -9,6 +9,7 @@ import {
     Route
 } from 'react-router-dom';
 import Projects from './pages/Projects';
+import Home from "./pages/Home"
 
 
 function App() {
@@ -22,8 +23,12 @@ function App() {
             <Route path='/projects'>
                 <Projects />
             </Route>
+            <Route>
+                <Home />
+            </Route>
         </Switch>
     </Router>
+
   );
 }
 
