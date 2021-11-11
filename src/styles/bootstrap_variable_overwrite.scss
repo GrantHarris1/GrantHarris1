@@ -1,5 +1,7 @@
 body{
     background-image: url(./img/blogback.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 nav{
@@ -39,8 +41,10 @@ h3{
 
 #cap {
     
+    
     background-color: #34495e;
     color: #ecf0f1;
+    
     
 }
 
@@ -74,5 +78,8 @@ i{
      font-family: 'Montserrat', sans-serif;
 
 }
+// #git{
+//     background-color:;
+// }
 
 

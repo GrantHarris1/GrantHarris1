@@ -12,8 +12,8 @@ export default function Projects() {
                         src="/img/hero.png"
                         alt="First slide"
                     />
-                    <Carousel.Caption>
-                        <div className="border-dark rounded-pill border border-danger" id='herocap'>
+                    <Carousel.Caption className=".d-sm-none .d-md-block">
+                        <div className="border-dark rounded-pill border border-danger .d-sm-none .d-md-block" id='herocap'>
                             
                             <h2 className='text-danger'>WordPress Project :</h2>
                             <p>
@@ -35,7 +35,7 @@ export default function Projects() {
                     />
 
                     <Carousel.Caption>
-                        <div className="Iam border-dark rounded-pill" id='todocap' >
+                        <div className="border-dark rounded-pill" id='todocap' >
                             
                             <h2 className='text-light'>React Project :</h2>
                             <p id="pic">
@@ -56,7 +56,7 @@ export default function Projects() {
                     />
 
                     <Carousel.Caption>
-                        <div className="Iam border-dark rounded-pill" id='watercap' >
+                        <div className="border-dark rounded-pill" id='watercap' >
                             
                             <h2 className='text-light'>WordPress Project :</h2>
                             <p id="pic" className="innerIam">
@@ -99,7 +99,7 @@ export default function Projects() {
                         src="/img/full KHP.png"
                         alt="Third slide"
                     />
-
+                    
                     <Carousel.Caption>
                         <div className="Iam border-dark rounded-pill" id='khpcap' >
                             
