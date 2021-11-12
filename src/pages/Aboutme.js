@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Aboutme() {
     return (
-        <>
+        <body>
             <h1>
                 Grant  Harris. 
             </h1>
@@ -10,7 +10,7 @@ export default function Aboutme() {
             <h2>Web Developer</h2>
             <p>
                 HTML | CSS | JavaScript | React | Bootstrap | React Bootstrap | O.O.P.
-                | Agile | Git | Github | Wordpress | Social Media
+                | Agile | Git | Github | Laravel |Wordpress | Social Media
             </p>
             <br />
 
@@ -56,6 +56,6 @@ export default function Aboutme() {
 
             
             
-        </>
+        </body>
     );
 }

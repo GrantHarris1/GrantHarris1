@@ -3,10 +3,16 @@ import React from 'react'
 
 export default function Home() {
     return (
-        <div className='text-center'>
-        <h1 className='text-dark'>Grant Harris.</h1>  <h1>Full Stack Web Developer.</h1>
-            
-            
+        
+        <div className="title text-center fw-bold" id="title">
+            <br />
+            <h1 id='me'>Grant Harris</h1>
+            <h2>Web Developer.</h2>
+
+
         </div>
+
+
+
     )
 }
