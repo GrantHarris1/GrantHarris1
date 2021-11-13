@@ -25,13 +25,13 @@ export default function Projects() {
                                     A React Project Todo list App using React, CSS and Bootstrap<br />
                                 </p>
                                 <h1>
-                                    <a href="https://github.com/GrantHarris1/todo"><i className="bi bi-github"></i></a>
+                                    <a href="https://todo-list-67656.web.app/"><i className="bi bi-link-45deg"></i></a>
                                 </h1>
                             </div>
 
                         </Carousel.Caption>
                         <div className='smallCap text-center' id="smallCap">
-                            <a href="https://github.com/GrantHarris1/todo" id='a'>React.  <i className='bi bi-github'></i></a>
+                            <a href="https://todo-list-67656.web.app/" id='a'>React.  <i className='bi bi-link-45deg'></i></a>
                         </div>
 
                     </Carousel.Item>
@@ -73,14 +73,14 @@ export default function Projects() {
                                     A Mock E-commerce site made with React Hooks and APIs.
                             </p>
                                 <h1>
-                                    <a href="https://github.com/GrantHarris1/hooks"><i className="bi bi-github" ></i></a>
+                                    <a href="https://react-hooks-store-f6cf4.web.app/"><i className="bi bi-link-45deg" ></i></a>
                                 </h1>
 
                             </div>
 
                         </Carousel.Caption>
                         <div className='smallCap text-center'>
-                            <a href="https://github.com/GrantHarris1/hooks" id='a'>React w/Hooks.  <i className='bi bi-github'></i></a>
+                            <a href="https://react-hooks-store-f6cf4.web.app/" id='a'>React w/Hooks.  <i className='bi bi-link-45deg'></i></a>
                         </div>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -121,13 +121,13 @@ export default function Projects() {
                                     A React Project, made with Bootstrap, using an API call rendering a menu based on time of day.
                                 </p>
                                 <h1>
-                                    <a href="https://github.com/GrantHarris1/menu"><i className="bi bi-github" ></i></a>
+                                    <a href="https://menu-65537.web.app/"><i className="bi bi-link-45deg" ></i></a>
                                 </h1>
                             </div>
 
                         </Carousel.Caption>
                         <div className='smallCap text-center'>
-                            <a href="https://github.com/GrantHarris1/menu" id='a'>React w/API , Cond. Rendering.  <i className='bi bi-github'></i></a>
+                            <a href="https://menu-65537.web.app/" id='a'>React w/API , Cond. Rendering.  <i className='bi bi-link-45deg'></i></a>
                         </div>
                     </Carousel.Item>
                     <Carousel.Item variant="dark">
