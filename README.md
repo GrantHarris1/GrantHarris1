@@ -1,6 +1,5 @@
 Grant-blog-1
-# Getting Started with My Portfolio!
-This is a work in progress blog. Tune in weekly for great updates.
+Welcome To My Github Portfolio!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
