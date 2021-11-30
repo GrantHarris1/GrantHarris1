@@ -1,5 +1,5 @@
-Grant-blog-1
 Welcome To My Github Portfolio!
+Please feel free to reach out to me with any questions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
