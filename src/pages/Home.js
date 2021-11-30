@@ -6,8 +6,8 @@ export default function Home() {
         
         <div className="title text-center fw-bold" id="title">
             <br />
-            <h1 id='me'>Grant Harris</h1>
-            <h2>Web Developer.</h2>
+            <h1 id='me'className ='text-light'>Grant Harris</h1>
+            <h2>Web Developer</h2>
 
 
         </div>
